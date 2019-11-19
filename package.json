@@ -1,5 +1,5 @@
 {
-  "name": "CloudBootcamp",
+  "name": "CloudBootcamp_git",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.ibm.com/priyankadasgupta/shipping-service.git"
+    "url": "https://github.com/priyankadasgupta/shipping-service.git"
   },
   "keywords": [],
   "author": "",
